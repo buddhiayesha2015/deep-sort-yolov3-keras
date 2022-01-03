@@ -1,6 +1,6 @@
-## YOLO V4 - Speed Detection
+## YOLO V3 - Speed Detection
 
-Custom data vehicle, speed and lane detector using YOLO V4.
+Custom data vehicle, speed and lane detector using YOLO V3.
 
 #### Run
 
